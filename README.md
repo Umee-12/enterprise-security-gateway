@@ -202,6 +202,33 @@ https://your-api.onrender.com/api/v1/auth/github/callback
 ## 🧪 Postman Testing Guide
 
 ### Register
+
+## employee login
+<img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/6cb98028-47a5-42ea-9b1d-0ed11a71d64a" />
+
+<img width="1882" height="889" alt="image" src="https://github.com/user-attachments/assets/d08dc068-6b9c-4ff8-ac62-70ed212f47fa" />
+
+## Manager login 
+<img width="1898" height="890" alt="image" src="https://github.com/user-attachments/assets/7622349c-4f5f-403a-842b-93dbdbf73daa" />
+<img width="1894" height="895" alt="image" src="https://github.com/user-attachments/assets/d6232391-4c4e-4c24-accf-f2455237556e" />
+## super admin
+<img width="1920" height="903" alt="image" src="https://github.com/user-attachments/assets/a6ec19bf-b026-4c6b-a73c-c495bbb319f7" />
+
+
+
+## google login
+<img width="1920" height="899" alt="image" src="https://github.com/user-attachments/assets/49febbc3-b307-42de-8a43-d30af76549d5" />
+
+<img width="1892" height="903" alt="image" src="https://github.com/user-attachments/assets/a3370eea-efd2-41c6-b846-0f37174693ec" />
+
+## github login
+<img width="1909" height="893" alt="image" src="https://github.com/user-attachments/assets/4b54df00-a6fe-4fe5-ba55-41f62ea34686" />
+
+
+
+
+
+
 ```
 POST /api/v1/auth/register
 Body: { "name": "Test User", "email": "test@example.com", "password": "Test@12345", "role": "Employee" }
